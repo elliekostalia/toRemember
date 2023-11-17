@@ -1,0 +1,80 @@
+Employee Reflections    
+Celebrate/Career:
+
+It has been a productive year as focusing on the predictive modeling project I was able to advance my knowledge in the area of Deep Learning, both by analyzing the requirements of the business case and by evaluating what would be the outcome of the several approaches followed in designing the model. By having the chance to explore a number of scenarios that the model to-be-developed could apply, I had the chance to familiarize myself with many applications that a ML model could have in business, and thus, become better in expanding as a new professional. Moreover, the exposure to new areas of Data Analytics, such as familiarizing myself with deploying the development of a ML model in platforms in the Cloud, and also the front-end development and enhancements of BI dashboards has contributed to building my skillset and also growing my interest in data analytics and its applications.
+
+ 
+
+Collaborate:
+
+The opportunity to collaborate with members of the team with different areas of expertise has been insightful and educating, as it would provide me with understanding the nature of the data that would be input in the model and would also expand my knowledge on the field of project management, a big part of Jacobs. Additionally, having the chance to consult professionals in the field of Data analytics and Artificial Intelligence helped me develop a more holistic understanding of the early stages of data mining in cases of large-scale data handling. Teaming up with professionals in the field of AI did also give me insights on the different tactics that could be used to approach a project when developing ML models in a corporate environment. While partnering with those team members, the feedback received was not only encouraging, but also rewarding by pointing out how challenging this initiative is and how my initial proposed approaches would be the optimal selection at the time based on the business case scenario.
+
+ 
+
+Continue/Consider:
+
+During this first year of working with Jacobs and this team, it was enjoyable to participate to daily sprint calls and through these, to gain exposure to the several projects the team is working on, but most importantly to get accustomed to the way a big team collaborates and communicates in a corporate environment. Furthermore, having the chance to be reporting on my work on a weekly basis has been very helpful, both by sharing the work implemented, but also by getting suggestions, knowledge, and feedback, as my ultimate purpose is to learn and improve, and eventually grow professionally and personally. Going further, I believe the ability to communicate my work in higher detail can be an area of development while aiming higher as a Data Scientist.
+
+ 
+
+ 
+
+Career:
+
+Working in my first professional position as a Data Scientist, I have been focusing on the technical perspectives of the field, getting better on analyzing the requirements of an initiative and also gaining stronger background in coding with Python. The opportunity to collaborate with professionals with knowledge in data science has also helped me advance my views of the area of AI and what this can bring to an organization and develop my communication skills on a certain level. Finally, by being able to participate in interviews with candidates for a data scientist position has been benefiting to me to understand the views of a manager during this kind of processes and also gaining the ability to form opinions and enhance my critical thinking on the overall profiles of candidates in the area of data science. Finally, the ability to work with professional consultants in AI has been both educating and insightful by gaining exposure to consulting, apart from developing.
+
+Living our values
+During the first year working with Jacobs, I have in fact experienced the culture of the organization that is tightly connected with aiming higher by advancing initiatives and continuously growing by providing innovative solutions. By participating in the organization’s global calls, I did get the impression of how a better future is the ultimate goal, and how the voice of the people forming this organization is heard and respected. Additionally, the focus to safety and sustainability has been reflected through a number of actions in Jacobs and has been encouraged in every call, making sure all the members pursue these values. Jacobs as a global organization has exceeded my expectations following the value “We live inclusion”; diverse teams with beautiful visions and unique ways to accomplish them is in my opinion what makes Jacobs the successful company that it is. 
+
+Reviewer Reflections (Christian von Schleicher)    
+Elli has been a bright addition to the team in the past year, both with her positive attitude and the broadening in technical skills she provides to the team. Elli is stubbornly diligent in her approach, communicates well with her team members and the business, and has grown tremendously in her technical understanding of machine learning and AI algorithms.
+
+
+
+Her primary project has been developing a predictive model to determine which of Jacobs' projects will not achieve their forecasted margins, but she also provided natural language processing of HR exit interviews at the beginning of the year. She has had a steep learning curve of both business knowledge, process, and technical tools used within our team, but she has excelled at her absorption of all of them to become a valuable member of the team, despite often having to work on the advanced analytics much on her own. She will benefit from other resources joining the team with ML / Python/ AI experience, but we couldn't have a better person to explore this area initially than Elli.
+
+Reviewer Rating
+Exceeds
+
+
+Contribution to development of data solutions
+Priority Details
+I will focus on delivering data solutions with a priority on the upcoming year's initiatives, by the development of systems which ensure on-time and on-budget completion of tasks. The approved initiatives, upon their completion, will show the capabilities of the team to excel even more on the development of advanced systems in analytics and data processing and underline the team’s ability to innovate and contribute more.
+AlignmentWe aim higher.
+MeasureSuccessful deployment of deliverables
+
+To advance Inclusion and Diversity
+Priority Details
+One of the main priorities for the upcoming year is to work in a team where a successful collaboration is achieved regardless of identity or background, and to continue to raise awareness towards unconscious biases which may impact individual’s or team’s decisions or communications. A main goal is to increase participation in Jacobs Employee Networks (JENs) for me and my team and assure that all team members feel they are treated respectfully and fairly, that are valued, so they can all be confident and inspired.
+AlignmentWe live inclusion.
+MeasurePeer review
+
+2022 - Personal Development Goals
+Priority Details
+I will design and implement a ML model for the detection of the risk in ongoing projects. Finding the appropriate algorithm and tuning the model, along with creating presentations and passing the knowledge of ML models to members of the team - or different team -. Through this process, I anticipate to excel on applying data science methodologies to projects of different nature and get better in exploring tech ideas to introduce in the team.
+AlignmentWe aim higher.
+MeasureSuccessful deployment of deliverables and peer review
+
+2022 - Deliver Focus 2023 on Budget
+Priority Details
+I will focus on delivering technology solutions with a priority on Focus 23 initiatives. Prioritization of development will be placed on Transformation Office approved initiatives, working closely with the IT PMO to ensure on-time, on-budget completion for tasks within my remit. 
+AlignmentWe challenge the accepted.
+MeasureSuccessful delivery of tasks
+
+2022 - Progressing Inclusion & Diversity Goals
+Priority Details
+My goal is to increase participation in Jacobs Employee Networks (JENs) for me and my team in order to broaden our perspectives and increase collaboration regardless of background or identity. I will also continue to complete unconscious bias training to raise awareness and then mitigate biases which may impact my decisions or communications. I'm also responsible for developing or enhancing further Inclusion and Diversity dashboards for the entire enterprise to further drive awareness into current state I&D trends. 
+AlignmentWe live inclusion.
+MeasurePeer Review
+
+2022 - IT Support Climate Action Goals
+Priority Details
+I will reduce or limit my carbon footprint as well as foster a more eco-minded culture within my team and Jacobs by:
+
+1.     Limiting commute through virtual meetings
+
+2.     Encouraging team members to work from home whenever possible
+
+3.     Encouraging regular dialogue through Culture of Caring moments 
+AlignmentConnected, Sustainable Solutions
+MeasureReduce of carbon footprint of team/Jacobs
